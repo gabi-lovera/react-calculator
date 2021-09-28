@@ -7,7 +7,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(to right, #f2b656, #ed942f);
+  background-color: #2a486d;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
